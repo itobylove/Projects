@@ -3,3 +3,13 @@ test
 22222222222222222222222222222222
 33333333333333333333333333333333
 44444444444444444444444444444444444
+
+1.改代码前，先切换到master
+2.改完代码后commit到master
+3.pull  origin mster
+4.push origin master
+5.switch released
+6.pull
+7.merge  origin master
+8.push
+9.switch master.
